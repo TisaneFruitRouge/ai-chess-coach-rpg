@@ -1,0 +1,7 @@
+__pycache__
+.venv
+.ropeproject
+.python-version
+
+.DS_Store
+.idea
